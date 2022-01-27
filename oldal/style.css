@@ -1,0 +1,27 @@
+   
+nav{
+    color: black;
+    background-color: gray;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: lightblue;
+}
+h1{
+    font-size: 240%;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+}
+footer{
+    background-color: light;
+}
+.logo-image{
+    width: 250px;
+    height: 198px;
+    border-radius: 0%;
+    overflow: hidden;
+    margin-top: -2px;
+}
